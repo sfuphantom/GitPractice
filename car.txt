@@ -1,6 +1,6 @@
 Audi
-<<<<<<< Updated upstream
 
-=======
+
+
 I love candy
->>>>>>> Stashed changes
+
