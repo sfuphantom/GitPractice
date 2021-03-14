@@ -4,5 +4,5 @@ int main(){
 
 	std::cout << "I like cars.";
 
-	std::cout << "Candy is cool and sweet";
+	std::cout << "The idea of candy is NOT that cool";
 }
