@@ -2,7 +2,7 @@
 #include <iostream>
 int main(){
 
-	std::cout << "I like cars.";
+    std::cout << "I like cars.";
 
-	std::cout << "Candy is cool and sweet";
+    std::cout << "Candy is super duper cool and sweet";
 }
